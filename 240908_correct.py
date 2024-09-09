@@ -18,4 +18,3 @@ def solution(progresses, speeds):
         answer.append(count) 
             
     return answer
-출처: https://tgif1393.tistory.com/entry/기능개발 [Cats Who Code:티스토리]
